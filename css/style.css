@@ -227,3 +227,17 @@ footer{
 	}
 
 }
+
+@media (max-width: 1000px){
+	header{
+		text-align: center;
+	}
+
+	.header-button-block{
+		margin: 0 auto;
+	}
+
+	.header-button{
+		text-align: center;
+	}
+}
